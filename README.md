@@ -16,5 +16,14 @@
 
 ![image](https://user-images.githubusercontent.com/104545490/168490805-957037bb-4374-48bb-9bb6-59ac2635f8f5.png)
 
+## 5. The kind of dismissals Virat Kohli faced most of the time
+
+![image](https://user-images.githubusercontent.com/104545490/168490861-51cb2065-1b48-4d03-9d14-fd492c4cbe52.png)
+
+## 6. Most runs against teams
+
+![image](https://user-images.githubusercontent.com/104545490/168490977-082b9a6c-6162-43b7-9360-fb6ae4aac0eb.png)
+
+
 
 
