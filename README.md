@@ -85,7 +85,9 @@
 ### 6. He scored most of the centuries while batting against Australia.
 ### 7. He hits most of 4's while batting.
 
+[Github](https://github.com/Shivmalge)
 
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
 
 
 
