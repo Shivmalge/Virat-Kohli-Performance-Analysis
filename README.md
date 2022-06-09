@@ -76,7 +76,7 @@
 
 ## So this is how I have analyzed the performance of Virat Kohli in ODI(as per available data).
 
-## Summary:
+## Conclusion:
 ### 1. Virat Kohli scored over 100 or very close to it.
 ### 2. Best Batting position for Virat Kohli in ODI could be Third position.
 ### 3. He scored most of the centuries while batting second innings.
